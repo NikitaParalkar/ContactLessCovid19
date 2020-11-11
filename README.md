@@ -1,2 +1,2 @@
 # ContactLessCovid19
-Figma Prototype - Covid 19 Apploication 
+Figma Prototype - Covid 19 Application 
